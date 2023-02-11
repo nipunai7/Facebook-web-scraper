@@ -1,2 +1,2 @@
-username = "your-username"
-password = "your-password"
+username = "nipunai7"
+password = "SAmsungpl120"
